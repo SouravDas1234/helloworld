@@ -9,7 +9,7 @@
 /* 01/15/2018   TCS                    1.0    Create
 /***************************************************************/
 
-
+---Test Line Added to test Pull request ------------
 INSERT INTO mhe_gps_acq_agg_rights_scnario VALUES(mhe_gps_acq_agg_rgts_seq_s.nextval,'SCENERIO-0','No Contract Record
 Single Multiple Vendors
 Rights Category for the Asset is a Wholly Owned and any Permission Activity Status
